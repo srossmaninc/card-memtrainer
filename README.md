@@ -1,6 +1,6 @@
 # card-memtrainer
 
-![King of Spades](https://raw.githubusercontent.com/srossmaninc/card-memtrainer/refs/heads/main/card%20art/KS.svg)
+![King of Spades](https://raw.githubusercontent.com/srossmaninc/card-memtrainer/refs/heads/main/assets/cards/KS.png)
 
 I keep forgetting about a hidden King of Spades when playing cards and lose my bid
 
